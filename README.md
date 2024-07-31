@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Abdu Razaq
 
  
- ##Skills
+ ## Skills
  JavaScript
  NodeJs
  ExpressJs
