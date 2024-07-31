@@ -2,10 +2,11 @@
 
  
  ## Skills
-/JavaScript
+/ JavaScript
 / NodeJs
 / ExpressJs
 / MongoDB
 / MySql
+/ Firebase
 
 
