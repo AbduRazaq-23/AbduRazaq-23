@@ -1,5 +1,10 @@
 # Hi there 👋 I'm Abdu Razaq
 
-## JavaScript NodeJs ExpressJs MongoDB
+ 
+ ##Skills
+ JavaScript
+ NodeJs
+ ExpressJs
+ MongoDB
 
 
