@@ -6,5 +6,6 @@
 / NodeJs
 / ExpressJs
 / MongoDB
+/ MySql
 
 
