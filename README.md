@@ -2,9 +2,9 @@
 
  
  ## Skills
-### JavaScript
-### NodeJs
-### ExpressJs
-### MongoDB
+/JavaScript
+/ NodeJs
+/ ExpressJs
+/ MongoDB
 
 
